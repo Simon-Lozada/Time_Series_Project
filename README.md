@@ -1,25 +1,28 @@
 # Time_Series_Project
 This project is based on the udemy course. in this project the following will be carried out:
-- see the data of different technology companies.
-- create a graph with the values of the shares of the companies.
-- create an interactive graph with the value of the shares over time
-- see the performance of the actions
-- create an interactive graph with the performance of the stock over time.
-- view the daily performance of stocks
-- use the date as an index for the search
-- create a graph with the daily, monthly and annual performance of a stock
-- create correlation charts with seaborn
-- create a heat map to see the correlation between companies
-- create performance correlation charts with seaborn
-- create a minimum and maximum profit estimate
-## Data:
- link of the data used in this project: `https://drive.google.com/file/d/1J7PevXnksc9NNAWLpftHhCFuHZRG0bvD/view?usp=sharing`
-## Dependencies and library
+- *see the data of different technology companies.*
+- *create a graph with the values of the shares of the companies.*
+- *create an interactive graph with the value of the shares over time*
+- *see the performance of the actions*
+- *create an interactive graph with the performance of the stock over time*.
+- *view the daily performance of stocks*
+- *use the date as an index for the search*
+- *create a graph with the daily, monthly and annual performance of a stock*
+- *create correlation charts with seaborn*
+- *create a heat map to see the correlation between companies*
+- *create performance correlation charts with seaborn*
+- *create a minimum and maximum profit estimate*
+## Dependencies:
+
+###Libraries:
 you need these libraries:
-- pandas
-- numpy
-- matplotlib.pyplot
-- seaborn
+- __pandas__
+- __numpy__
+- __matplotlib.pyplot__
+- __seaborn__
+
+###Data:
+ __link of the data used in this project:__ `https://drive.google.com/file/d/1k-jUYQ3sRLAwQZqBsg7vKcpsGZgpXxd6/view?usp=sharing`
 
 you must set the variable `path` in the place where to save this file.
 
