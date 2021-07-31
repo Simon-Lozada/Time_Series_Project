@@ -14,14 +14,14 @@ This project is based on the udemy course. in this project the following will be
 - *create a minimum and maximum profit estimate*
 ## Dependencies:
 
-###Libraries:
+### Libraries:
 you need these libraries:
 - __pandas__
 - __numpy__
 - __matplotlib.pyplot__
 - __seaborn__
 
-###Data:
+### Data:
  __link of the data used in this project:__ `https://drive.google.com/file/d/1k-jUYQ3sRLAwQZqBsg7vKcpsGZgpXxd6/view?usp=sharing`
 
 you must set the variable `path` in the place where to save this file.
