@@ -12,7 +12,8 @@ This project is based on the udemy course. in this project the following will be
 - create a heat map to see the correlation between companies
 - create performance correlation charts with seaborn
 - create a minimum and maximum profit estimate
-
+## Data:
+ link of the data used in this project: `https://drive.google.com/file/d/1J7PevXnksc9NNAWLpftHhCFuHZRG0bvD/view?usp=sharing`
 ## Dependencies and library
 you need these libraries:
 - pandas
